@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Chris Doss
-- 👀 I do statistical and data analysis for soccer.
-- 🌱 I currently work in Python (Pandas, matplotlib, scikit-learn, pytorch), SQL, R, Tableau
+- 👀 I do statistical and data analysis.
+- 🌱 I currently work in Python (Polars, matplotlib, scikit-learn, pytorch), SQL, R, Tableau
+- Current stack:
+    Django
+    Apache
+    mod_wsgi
 - 📫 How to reach me - christopher.doss92@gmail.com
 
 <!---

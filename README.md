@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Doss
 - 👀 I do statistical and data analysis.
-- 🌱 I currently work in Python (Polars, matplotlib, scikit-learn, pytorch), SQL, R, Tableau
+- 🌱 I currently work in Python (Polars, matplotlib, scikit-learn, pytorch), SQL, Tableau if I have to, and a little Rust on the side
 - Current stack:
     Django
     Nginx
